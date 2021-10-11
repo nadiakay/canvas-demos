@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  position: absolute;
+}
+table {
+  display: block;
+  position: absolute;
+  right: 0px;
+}
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+}
